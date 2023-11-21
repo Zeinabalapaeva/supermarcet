@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-
+        System.out.println("test");
                 Produkt[] products = new Produkt[0];
                 double summa = 0;
                 long ee  = 0;
